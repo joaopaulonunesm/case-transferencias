@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "9a781a8a-69ed-4c55-850b-e6f8300afa79",
+		"name": "Case Transferencias",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1269727"
+	},
+	"item": [
+		{
+			"name": "Transferencias",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Transferencias",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
